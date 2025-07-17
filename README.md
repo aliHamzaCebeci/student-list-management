@@ -1,3 +1,4 @@
 # student-list-management
-a student list management
-you can make a list and add students!
+you can manage the student list with this program 
+
+you can delete, swap and add students or review the list.  
